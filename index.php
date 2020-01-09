@@ -7,6 +7,7 @@
   <title>Document</title>
 </head>
 <body>
+  <?php echo "matteo"; ?>
   <h1>sito di prova aggiornato</h1>
   <p>Sito realizzato con netlify</p>
 </body>
